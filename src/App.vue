@@ -9,6 +9,19 @@
             <div id="button">Add</div>
           </div>
       </div>
+              <div>
+            <ul id="filters">
+                <li>
+                    <a href="#" data-filter="all">ALL</a>
+                </li>
+                <li>
+                    <a href="#" data-filter="active">Active</a>
+                </li>
+                <li>
+                    <a href="#" data-filter="complete">Complete</a>
+                </li>
+            </ul>
+        </div>
   </div>
 </template>
 
